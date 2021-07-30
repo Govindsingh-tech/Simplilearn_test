@@ -4,7 +4,7 @@
 
 # create a new repository on the command line
 
-echo "# 30days_code_hackerrank" >> README.md
+echo "# 30days_code_hackerrank"/
 git init
 git add README.md
 git commit -m "first commit"
